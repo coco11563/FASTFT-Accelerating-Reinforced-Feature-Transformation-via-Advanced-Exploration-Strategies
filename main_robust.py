@@ -75,6 +75,8 @@ def train(param):
     NAME = param['name']
     DISTANCE = param['distance']
     ENV = FeatureEnv(task_name=NAME, state_method=STATE_METHOD, distance=DISTANCE, ablation_mode=param['ablation_mode'])
+    if not os.path.exists('./tmp/'):
+        os.mkdir('./tmp/')
     D_OPT_PATH = './tmp/' + NAME + '_' + \
                  MODE + '/'
     if NAME == 'fetal_health' or NAME == 'cardio_train' or NAME == 'breast_cancer' or NAME == 'alzheimers':
