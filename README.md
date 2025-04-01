@@ -66,6 +66,13 @@ t-statistics and p-values comparing the performances of each baseline with FASTF
 
 
 ## How to run:
+
+### step 0: install requirements:
+We recommend Python version 3.10 with torch version 1.13.1. For reproducing FastFT, please install the tools with exactly version.
+```
+pip install -r requirement.txt
+```
+
 ### step 1: download the code and dataset:
 ```
 git clone https://github.com/coco11563/FASTFT-Accelerating-Reinforced-Feature-Transformation-via-Advanced-Exploration-Strategies.git
