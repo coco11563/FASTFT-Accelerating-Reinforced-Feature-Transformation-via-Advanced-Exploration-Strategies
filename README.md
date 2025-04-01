@@ -68,7 +68,7 @@ t-statistics and p-values comparing the performances of each baseline with FASTF
 ## How to run:
 ### step 1: download the code and dataset:
 ```
-git clone git@github.com:coco11563/FASTFT-Accelerating-Reinforced-Feature-Transformation-via-Advanced-Exploration-Strategies.git
+git clone https://github.com/coco11563/FASTFT-Accelerating-Reinforced-Feature-Transformation-via-Advanced-Exploration-Strategies.git
 ```
 then:
 ```
