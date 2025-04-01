@@ -16,7 +16,7 @@ ICDE version bib:
 @inproceedings{he2025fastft,
   title={FastFT: Accelerating Reinforced Feature Transformation via Advanced Exploration Strategies},
   author={He, Tianqi and Huang, Xiaohan and Du, Yi  and Long, Qingqing and Ziyue, Qiao and Min, Wu and Yanjie, Fu and Yuanchun, Zhou and Meng, Xiao},
-  booktitle={2024 IEEE 40th International Conference on Data Engineering (ICDE)},
+  booktitle={2025 IEEE 41th International Conference on Data Engineering (ICDE)},
   pages={1--14},
   year={2025},
   organization={IEEE}
